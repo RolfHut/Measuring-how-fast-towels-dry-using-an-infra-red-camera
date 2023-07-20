@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Measuring how fast towels dry using an infra-red camera
+message: >-
+  If you use this checklist, please cite it using these
+  metadata.
+type: software
+authors:
+  - affiliation: Delft University of Technology
+    family-names: Hut
+    given-names: Rolf
+    orcid: 'https://orcid.org/0000-0002-5697-5697'
+repository-code: >-
+  https://github.com/RolfHut/Measuring-how-fast-towels-dry-using-an-infra-red-camera/
+keywords:
+  - software publications
+  - data analysis
+license: Apache-2.0
