@@ -1,5 +1,5 @@
 # Meten hoe snel handdoeken drogen met een warmte camera
-For English, see ```readme.md```
+For English, see [readme.md](readme.md)
 
 Hoe snel drogen verschillende merken handdoeken? Het TV programma kassa vroeg mij om een experiment te bedenken om te bepalen of snel drogende handdoeken inderdaad sneller droger dan normale (katoenen) handdoeken. 
 
