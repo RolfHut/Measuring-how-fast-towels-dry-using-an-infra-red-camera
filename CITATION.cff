@@ -12,6 +12,12 @@ authors:
     family-names: Hut
     given-names: Rolf
     orcid: 'https://orcid.org/0000-0002-5697-5697'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8167803
+    description: >-
+      Measuring how fast towels dry using an infra-red
+      camera on Zenodo
 repository-code: >-
   https://github.com/RolfHut/Measuring-how-fast-towels-dry-using-an-infra-red-camera/
 keywords:
